@@ -1,4 +1,5 @@
 # AI-Powered Product Review Analyzer
+(https://github.com/user-attachments/assets/72c5a564-eba5-416c-a53f-0f5c7db87d06)
 
 ## Overview
 This project is an AI-powered shopping assistant that helps users make informed purchase decisions by analyzing product reviews. It provides a summarized verdict on whether to buy a product based on sentiment analysis and key insights extracted from reviews.
