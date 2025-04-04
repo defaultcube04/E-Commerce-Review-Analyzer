@@ -1,5 +1,4 @@
-# E-Commerce-Review-Analyzer
-# AI-Powered Product Review Analyzer
+![ChatGPT Image Apr 4, 2025, 06_35_44 PM](https://github.com/user-attachments/assets/f9f5c03f-0315-4fe3-a736-4e170b0f32af)# AI-Powered Product Review Analyzer
 
 ## Overview
 This project is an AI-powered shopping assistant that helps users make informed purchase decisions by analyzing product reviews. It provides a summarized verdict on whether to buy a product based on sentiment analysis and key insights extracted from reviews.
